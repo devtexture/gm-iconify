@@ -16,6 +16,6 @@ hook.Add('HUDPaint', 'icons.example', function()
     :draw()
 end)
 ```
-![Result](https://raw.githubusercontent.com/devtexture/gm-iconify/refs/heads/main/result.png?token=GHSAT0AAAAAAC6I4E2EF6VRZKTYSZ5L7DZK2DVPO7Q)
+![Result](https://raw.githubusercontent.com/devtexture/gm-iconify/refs/heads/main/result.png)
 
 
